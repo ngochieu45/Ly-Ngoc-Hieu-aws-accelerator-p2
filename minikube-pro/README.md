@@ -209,7 +209,6 @@ http://main-alb-1234567890.ap-southeast-1.elb.amazonaws.com
 
 - ALB cần 1-2 phút để health check EC2 instance
 - EC2 instance cần 3-5 phút để cài đặt Minikube và deploy app
-- Nếu thấy lỗi 503, đợi thêm vài phút và refresh
 
 ### 3. Xác minh thành công
 
