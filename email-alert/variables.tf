@@ -1,4 +1,4 @@
 variable "alert_email" {
-  description = "Email nhận cảnh báo"
+  description = "lyngochieu0405@gmail.com"
   type        = string
 }
