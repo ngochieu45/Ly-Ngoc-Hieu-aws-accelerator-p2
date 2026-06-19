@@ -89,6 +89,7 @@ resource "aws_macie2_classification_job" "lab_job" {
     }
   }
   tags = local.common_tags
+
 }
 
 # ──────────────────────────────────────────
